@@ -1,0 +1,33 @@
+[submodule ".github"]
+	path = .github
+	url = git@github.com:FundamentalFrequency/.github.git
+[submodule "LMN-3-Build-Guide"]
+	path = LMN-3-Build-Guide
+	url = git@github.com:FundamentalFrequency/LMN-3-Build-Guide.git
+[submodule "LMN-3-DAW"]
+	path = LMN-3-DAW
+	url = git@github.com:FundamentalFrequency/LMN-3-DAW.git
+[submodule "LMN-3-MCAD"]
+	path = LMN-3-MCAD
+	url = git@github.com:FundamentalFrequency/LMN-3-MCAD.git
+[submodule "LMN-3-Keycaps"]
+	path = LMN-3-Keycaps
+	url = git@github.com:FundamentalFrequency/LMN-3-Keycaps.git
+[submodule "LMN-3-Emulator"]
+	path = LMN-3-Emulator
+	url = git@github.com:FundamentalFrequency/LMN-3-Emulator.git
+[submodule "LMN-3-Firmware"]
+	path = LMN-3-Firmware
+	url = git@github.com:FundamentalFrequency/LMN-3-Firmware.git
+[submodule "LMN-3-ECAD"]
+	path = LMN-3-ECAD
+	url = git@github.com:FundamentalFrequency/LMN-3-ECAD.git
+[submodule "juce-x86_64-compiler"]
+	path = juce-x86_64-compiler
+	url = git@github.com:FundamentalFrequency/juce-x86_64-compiler.git
+[submodule "juce-arm-linux-cross-compiler"]
+	path = juce-arm-linux-cross-compiler
+	url = git@github.com:FundamentalFrequency/juce-arm-linux-cross-compiler.git
+[submodule "juce-aarch64-linux-cross-compiler"]
+	path = juce-aarch64-linux-cross-compiler
+	url = git@github.com:FundamentalFrequency/juce-aarch64-linux-cross-compiler.git
